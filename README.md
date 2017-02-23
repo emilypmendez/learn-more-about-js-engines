@@ -1,3 +1,7 @@
+** Paying it Forward
+All credits and kudos to [a0viedo]:https://github.com/a0viedo for creating this magnificent resource list of demystifying the elusive concepts of "JS Engines".
+---
+
 This is a list of resources I used to learn about virtual machines in general, from an architecture point of view to optimizations and garbage collection strategies. I've also put together some parts into a talk format, you can see the slides [here][slides].
 
 Contributions are very welcome!
